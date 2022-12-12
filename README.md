@@ -1,9 +1,13 @@
 # 一个起名字的工具
+
+
+<img src="https://user-images.githubusercontent.com/12215982/206998042-a884306e-aea9-4782-89b6-ca4bb001cc5d.png" width="100px"/>
+
 > 最近朋友孩子要起名，可把脑子想废了，于是花了一下午时间弄了这个，希望能帮到有这个需求的朋友。
-> 有什么建议可以直接提在 issue 中。
 
 
-![image](https://user-images.githubusercontent.com/12215982/206995862-fc551b9f-e1b7-427a-aa82-f01e1e39feae.png)
+
+![image](https://user-images.githubusercontent.com/12215982/206997896-a7ae0e1d-3f5f-4b23-8729-3221e82d7ce3.png)
 
 ## 使用说明
 1. 打开这个工具： [http://kylebing.cn/tools/name/](http://kylebing.cn/tools/name/)
@@ -21,6 +25,8 @@
 - vue3 组合式模板语法
 - scss
 
+
+有什么建议可以直接提在 issue 中。
 
 
 
