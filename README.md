@@ -7,7 +7,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/12215982/206997896-a7ae0e1d-3f5f-4b23-8729-3221e82d7ce3.png)
+![image](https://user-images.githubusercontent.com/12215982/207029879-84755798-0449-4159-9e1b-7694e618f9df.png)
 
 ## 使用说明
 1. 打开这个工具： [http://kylebing.cn/tools/name/](http://kylebing.cn/tools/name/)
