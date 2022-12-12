@@ -1,0 +1,30 @@
+@import "reset";
+@import "plugin";
+@import "normalize";
+@import "gutter";
+
+// FRAME
+body{
+  position: relative;
+  background-color: $bg-main;
+}
+
+.container{
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+// PC & IPAD
+@media (min-width: $grid-separate-width-md) {
+
+}
+
+// IPAD
+@media (min-width: $grid-separate-width-md) and (max-width: $grid-separate-width-big) {
+
+}
+
+// MOBILE
+@media (max-width: $grid-separate-width-md) {
+
+}
